@@ -3,9 +3,8 @@
 ## Introduction
 This project provides an in-depth analysis of Instagram influencers using Power BI. The goal is to understand the influence, engagement rates, and overall popularity of top channels across different countries. The insights derived from this analysis help marketers, businesses, and content creators make data-driven decisions regarding collaborations, marketing strategies, and audience engagement.
 
-- Dataset [Instagram Influencer](https://github.com/NishaChandila/instagram-influencers-dashboard/blob/main/top_insta_influencers_data.csv)
-
-- Power BI [Dashboard](https://github.com/NishaChandila/instagram-influencers-dashboard/blob/main/instagram_influencer.jpg)
+- Instagram Influencer [Dataset](https://github.com/NishaChandila/instagram-influencers-dashboard/blob/main/top_insta_influencers_data.csv)
+- Instagram Influencer [Dashboard](https://github.com/NishaChandila/instagram-influencers-dashboard/blob/main/instagram_influencer.jpg)
 
 ## Dataset
 The dataset includes the following columns:
@@ -23,7 +22,7 @@ The dataset includes the following columns:
 - **Total Like**: Total likes received by the influencer.
 - **Country**: Country of the influencer.
 
-- Dataset [Instagram Influencer](https://github.com/NishaChandila/instagram-influencers-dashboard/blob/main/top_insta_influencers_data.csv)
+- Instagram Influencer [Dataset](https://github.com/NishaChandila/instagram-influencers-dashboard/blob/main/top_insta_influencers_data.csv)
 
 ## Power BI Dashboard Insights
 
@@ -36,7 +35,7 @@ The dataset includes the following columns:
 5. The United States has the highest number of posts (**251.17K**) and total influence score (**5.6K**), followed by Brazil and India.
 6. Channels like **rkive** (26.91%), **thv** (38.02%), and **j.m** (35.06%) exhibit significant engagement rates.
 
-- Power BI [Dashboard](https://github.com/NishaChandila/instagram-influencers-dashboard/blob/main/instagram_influencer.jpg)
+- Instagram Influencer [Dashboard](https://github.com/NishaChandila/instagram-influencers-dashboard/blob/main/instagram_influencer.jpg)
 
 ## Recommendations
 1. **Focus on High-Influence Profiles**: Collaborate with influencers like Cristiano and Kylie Jenner for maximum reach.
@@ -47,6 +46,5 @@ The dataset includes the following columns:
 
 This analysis highlights the power of data-driven influencer marketing and helps brands optimize their social media strategies.
 
-- Dataset [Instagram Influencer](https://github.com/NishaChandila/instagram-influencers-dashboard/blob/main/top_insta_influencers_data.csv)
-
-- Power BI [Dashboard](https://github.com/NishaChandila/instagram-influencers-dashboard/blob/main/instagram_influencer.jpg)
+- Instagram Influencer [Dataset](https://github.com/NishaChandila/instagram-influencers-dashboard/blob/main/top_insta_influencers_data.csv)
+- Instagram Influencer [Dashboard](https://github.com/NishaChandila/instagram-influencers-dashboard/blob/main/instagram_influencer.jpg)
